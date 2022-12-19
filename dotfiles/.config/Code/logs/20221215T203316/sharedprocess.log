@@ -1,0 +1,19 @@
+2022-12-15 20:33:24.544 [info] Starting worker process with pid 5306 (type: fileWatcher, window: 1).
+2022-12-15 20:40:49.443 [info] Getting Manifest... equinusocio.vsc-material-theme
+2022-12-15 20:40:49.470 [info] Installing extension: equinusocio.vsc-material-theme
+2022-12-15 20:40:50.816 [info] Getting Manifest... equinusocio.vsc-community-material-theme
+2022-12-15 20:40:51.935 [info] Getting Manifest... equinusocio.vsc-material-theme-icons
+2022-12-15 20:40:52.538 [info] Installing extension: equinusocio.vsc-community-material-theme equinusocio.vsc-material-theme
+2022-12-15 20:40:52.540 [info] Installing extension: equinusocio.vsc-material-theme-icons equinusocio.vsc-material-theme
+2022-12-15 20:40:56.116 [info] Extracted extension to /home/dipesh/.vscode/extensions/.80a970e4-53bf-49b7-9205-670c05c4f06f: equinusocio.vsc-community-material-theme
+2022-12-15 20:40:56.129 [info] Renamed to /home/dipesh/.vscode/extensions/equinusocio.vsc-community-material-theme-1.4.4
+2022-12-15 20:40:56.135 [info] Extracting completed. equinusocio.vsc-community-material-theme
+2022-12-15 20:41:04.617 [info] Extracted extension to /home/dipesh/.vscode/extensions/.8075936b-29f2-49ee-bd60-410103fafd93: equinusocio.vsc-material-theme-icons
+2022-12-15 20:41:04.636 [info] Renamed to /home/dipesh/.vscode/extensions/equinusocio.vsc-material-theme-icons-2.5.0
+2022-12-15 20:41:04.640 [info] Extracting completed. equinusocio.vsc-material-theme-icons
+2022-12-15 20:41:07.156 [info] Extracted extension to /home/dipesh/.vscode/extensions/.c5dd939d-c736-4f6b-b0d3-2c933411bed5: equinusocio.vsc-material-theme
+2022-12-15 20:41:07.172 [info] Renamed to /home/dipesh/.vscode/extensions/equinusocio.vsc-material-theme-33.6.0
+2022-12-15 20:41:07.173 [info] Extracting completed. equinusocio.vsc-material-theme
+2022-12-15 20:41:07.204 [info] Extension installed successfully: equinusocio.vsc-community-material-theme
+2022-12-15 20:41:07.206 [info] Extension installed successfully: equinusocio.vsc-material-theme-icons
+2022-12-15 20:41:07.206 [info] Extension installed successfully: equinusocio.vsc-material-theme

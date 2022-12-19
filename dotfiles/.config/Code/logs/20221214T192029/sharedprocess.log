@@ -1,0 +1,7 @@
+2022-12-14 19:20:33.064 [info] Starting worker process with pid 3173 (type: fileWatcher, window: 1).
+2022-12-14 19:21:21.203 [info] Getting Manifest... akamud.vscode-theme-onedark
+2022-12-14 19:21:21.222 [info] Installing extension: akamud.vscode-theme-onedark
+2022-12-14 19:21:23.936 [info] Extracted extension to /home/dipesh/.vscode/extensions/.eabf23fb-7bdd-44bc-8a58-c73e07401e29: akamud.vscode-theme-onedark
+2022-12-14 19:21:23.940 [info] Renamed to /home/dipesh/.vscode/extensions/akamud.vscode-theme-onedark-2.3.0
+2022-12-14 19:21:23.941 [info] Extracting completed. akamud.vscode-theme-onedark
+2022-12-14 19:21:23.956 [info] Extension installed successfully: akamud.vscode-theme-onedark

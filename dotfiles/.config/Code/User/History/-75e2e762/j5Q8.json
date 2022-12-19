@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "window.zoomLevel": 2,
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    }
+}

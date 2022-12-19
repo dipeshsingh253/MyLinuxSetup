@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "window.zoomLevel": 2,
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "afterDelay"
+}
