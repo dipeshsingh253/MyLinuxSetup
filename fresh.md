@@ -85,3 +85,9 @@ gsettings set org.gnome.desktop.wm.preferences button-layout 'appmenu:'
 gsettings reset org.gnome.desktop.wm.preferences button-layout
 
 
+
+/// pop os setup
+
+https://github.com/erik1066/pop-os-setup
+
+
