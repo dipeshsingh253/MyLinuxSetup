@@ -90,4 +90,9 @@ gsettings reset org.gnome.desktop.wm.preferences button-layout
 
 https://github.com/erik1066/pop-os-setup
 
-
+/// terminals
+alacrity
+hyper
+gnome
+guave
+yakuake 
