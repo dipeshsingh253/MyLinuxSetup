@@ -1,5 +1,0 @@
-2022/11/28-09:48:12.637 3 Creating DB /home/dipesh/.config/google-chrome/Default/Local Storage/leveldb since it was missing.
-2022/11/28-09:48:12.647 3 Reusing MANIFEST /home/dipesh/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2022/11/28-09:52:16.088 3 Level-0 table #5: started
-2022/11/28-09:52:16.098 3 Level-0 table #5: 63154 bytes OK
-2022/11/28-09:52:16.109 3 Delete type=0 #3

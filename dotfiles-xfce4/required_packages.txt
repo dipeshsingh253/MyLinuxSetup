@@ -1,0 +1,16 @@
+jdk17-openjdk
+variety
+nodejs
+deadd-notification-center
+Miserable_Xfce -> dotfiles for easy configuration
+discord
+telegram-desktop
+whatsie
+spotify
+github-cli
+nerd-fonts-jetbrains-mono-160
+papirus-icon-theme noto-fonts-emoji
+ttf-iosevka
+wofi-emoji
+ttf-material-design-icons-extended
+noto-fonts-emoji
