@@ -1,0 +1,12 @@
+#!/bin/sh
+
+wall=$(find ~/pix/wall/ -type f -name "*png" -o -name "*.jpg" | shuf -n 1)
+
+# updating bg wallpaper
+xwallpaper --zoom $wall
+
+# generationg color scheme
+wal -c
+wal -i $wall
+
+xdotool key super+F5

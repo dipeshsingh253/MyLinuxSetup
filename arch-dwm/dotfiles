@@ -1,0 +1,54 @@
+
+
+mod = super
+termod = alt + shift # why never thought of this this key binding is really easy to reach without changing my hand positons
+
+
+# guides : common problems faced during archinstall
+
+
+# issue : unable to start gui or launch dwm
+reason : missign gpu drivers
+first : if you want to install gpu drivers automatically then choose xorg in profiles
+
+# issue : no audio on fresh install
+reason : need to setup
+
+paru/yay -S asoundconf
+asoundconf list
+asoundconf set-default-card AUDIO_DEVICE
+alsamixer -c 0 # unmute the audio device
+
+ pactl set-sink-volume @DEFAULT_SINK@ 50%  #set
+ pactl set-sink-volume @DEFAULT_SINK@ -5%  # dec
+ pactl set-sink-volume @DEFAULT_SINK@ +5%  # inc
+
+
+
+# links :
+	- https://unix.stackexchange.com/questions/104270/how-do-i-enable-sound-in-this-fresh-arch-install
+
+
+
+# Installing Lunar Vim
+www.lunarvim.org
+install it, below fonts as well
+ttf-nerd-fonts-symbols
+jetbrains nerd font
+
+
+# setting up the brightness
+
+two options you can see the directory sys/class/backlight
+
+I will have to know more abouth the root file system.
+
+then you can use xbacklight command to control brightness, but by default only root can perform this action, users  must be add udev rules to do this find more info on this archwiki
+
+also the second way to use light command in this case you will have to add user to video group using usermod command and then you can use light commands to control brightness.
+
+
+# sxhkd
+
+https://my-take-on.tech/2020/07/03/some-tricks-for-sxhkd-and-bspwm/
+also there was a blog by Distro Tube that helped and also the official arch wiki docs
