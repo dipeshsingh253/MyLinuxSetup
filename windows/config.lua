@@ -3,7 +3,7 @@
 -- Video Tutorials: https://www.youtube.com/watch?v=sFA9kX-Ud_c&list=PLhoH5vyxr6QqGu0i7tt_XoVK9v-KvZ3m6
 -- Forum: https://www.reddit.com/r/lunarvim/
 -- Discord: https://discord.com/invite/Xb9B4Ny
-
+-- this is created on windows platform but can be used on linux and unix as well, still I would like to keep my windows stuff separate.
 -- Enable powershell as your default shell
 vim.opt.shell = "pwsh.exe -NoLogo"
 vim.opt.shellcmdflag =
