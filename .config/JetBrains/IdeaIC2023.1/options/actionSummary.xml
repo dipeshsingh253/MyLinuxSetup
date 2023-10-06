@@ -1,0 +1,76 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CollapseAll">
+      <i c="2" l="1696548119144" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="46" l="1696548305212" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1696548250708" />
+    </e>
+    <e n="ExpandAll">
+      <i c="2" l="1696548118353" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="4" l="1696547593674" />
+    </e>
+    <e n="RevealIn">
+      <i c="1" l="1696548264365" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="6" l="1696548292107" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1696547657114" />
+    </e>
+    <e n="TabList">
+      <i c="1" l="1696548246759" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1696547525889" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="1" l="1696548153951" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeKeymapAction$1">
+      <i c="1" l="1696547986479" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$LafChangeAction">
+      <i c="2" l="1696547679266" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="5" l="1696548293496" />
+    </e>
+    <e n="com.intellij.ide.actions.ShowPluginsWithSearchOptionAction">
+      <i c="1" l="1696547958214" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$5">
+      <i c="2" l="1696248732359" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.SelectionBasedPluginModelAction$UninstallAction">
+      <i c="1" l="1696547339015" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="2" l="1696248730355" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1696547176672" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="5" l="1696548167893" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="2" l="1696548291243" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.NotificationEventAction">
+      <i c="1" l="1696547175105" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="3" l="1696548057932" />
+    </e>
+    <e n="de.plushnikov.intellij.plugin.activity.LombokBuildManagerListener$1">
+      <i c="1" l="1696548157269" />
+    </e>
+  </component>
+</application>

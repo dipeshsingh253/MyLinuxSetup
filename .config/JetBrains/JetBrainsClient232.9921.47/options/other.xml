@@ -1,0 +1,27 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "JBC-232.9921.47",
+    "experimental.ui.first.promotion.localdate": "2023-10-02",
+    "fileTypeChangedCounter": "1",
+    "ide.memory.adjusted": "true",
+    "ime.inlay.default.set": "true",
+    "local.user.name": "kakarot",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "registry.to.advanced.settings.migration.build": "JBC-232.9921.47",
+    "thinClient.ws": "true"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector"
+    ]
+  }
+}]]></component>
+</application>

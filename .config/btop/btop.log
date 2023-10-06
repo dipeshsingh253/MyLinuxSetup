@@ -1,0 +1,8 @@
+
+2023/10/05 (23:47:40) | ===> btop++ v.1.2.13
+2023/10/05 (23:47:40) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+
+2023/10/06 (04:58:06) | ===> btop++ v.1.2.13
+2023/10/06 (04:58:06) | ERROR: Stall in Runner thread, restarting!
+2023/10/06 (04:58:43) | ERROR: Stall in Runner thread, restarting!

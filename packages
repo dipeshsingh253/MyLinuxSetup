@@ -1,0 +1,19 @@
+
+Need to perform a clean up
+
+./pacman-packages => contains all the packman installed packages
+./yay-packages => contains all the yay packages
+
+
+
+# pacman packages
+
+wofi qutebrowser zsh neovim firefox ranger neofetch ntfs-3g
+
+
+# yay packages
+pfetch
+
+
+# other tools
+lunarvim ohmyzsh

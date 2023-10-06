@@ -1,0 +1,58 @@
+#!/bin/bash
+
+## Toggle state
+toggle() {
+  if [ -z $(nmcli connection show --active | grep -v '^lo') ];then
+    nmcli radio wifi on
+  else
+    nmcli radio wifi off
+  fi
+}
+
+
+## Toggle_wifi
+toggle_wifi() {
+  if nmcli connection show --active | grep -q 'wifi'; then
+    nmcli radio wifi off
+    notify-send "Wi-Fi turned off."
+  else
+    nmcli radio wifi on
+    notify-send "Wi-Fi turned on."
+  fi
+}
+
+
+## Get Icon
+get_icon() {
+  while true; do
+    if nmcli connection show --active | grep -q 'wifi'; then
+      echo ""
+    else
+      echo "󱚵"
+    fi
+    sleep 5
+  done
+}
+
+## Get Status
+get_status() {  
+  while true; do
+    if nmcli connection show --active | grep -q 'wifi'; then
+      echo "  $(nmcli -t -f NAME connection show --active | head -n 1)"
+    else 
+      echo "󱚼  Offline"
+    fi
+    sleep 5
+  done
+}
+
+
+
+if [ "$1" = "--toggle" ]; then
+  toggle_wifi
+elif [ "$1" = "--icon" ]; then
+  get_icon
+else #default
+  get_status
+fi
+   

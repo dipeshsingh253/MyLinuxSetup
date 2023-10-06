@@ -1,0 +1,290 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="klaw" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/io/aiven/klaw/UiapiApplication.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/resources/db/changelog/changelog.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1197">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/resources/scripts/base/rdbms/db-grants.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/resources/scripts/base/rdbms/dropjdbc.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/resources/static/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-441" />
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/io/aiven/klaw/service/SchemaRegistryControllerService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="303" selection-start-line="303" selection-end-line="303" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cluster-api/src/main/java/io/aiven/klaw/clusterapi/KafkaClusterApiApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <folding>
+                <element signature="e#348#349#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/coral/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coral/tsconfig.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cluster-api/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-630" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="HTML">
+      <summary usageCount="1" lastUsed="1696547851537" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="3" lastUsed="1696548110924" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="1" lastUsed="1696548277221" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="2" lastUsed="1696548229411" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="1" lastUsed="1696548145536" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="2" lastUsed="1696547846549" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="1" lastUsed="1696547822232" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/core/src/main/java/io/aiven/klaw/service/SchemaRegistryControllerService.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="HTML">
+      <summary usageCount="1" lastUsage="1696547851537" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="3" lastUsage="1696548110924" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1696548277221" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1696548229411" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1696548145536" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1696547822232" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="klaw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/kakarot/dox/hacktober-2023/klaw/klaw}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="klaw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/kakarot/dox/hacktober-2023/klaw/klaw}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/kakarot/dox/hacktober-2023/klaw/klaw/coral}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.KafkaClusterApiApplication" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24653518" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="SonarLint" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dependencies" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.3296332" />
+      <window_info anchor="right" id="Meet New UI" show_stripe_button="false" side_tool="true" weight="0.24653518" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.24653518" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <unified_weights bottom="0.3296332" left="0.24653518" right="0.24653518" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>Debug</value>
+      <value>Meet New UI</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1794" height="299" key="GridCell.Tab.0.bottom" timestamp="1696548168119">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="299" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1696548168119" />
+    <state width="1794" height="299" key="GridCell.Tab.0.center" timestamp="1696548168117">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="299" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1696548168117" />
+    <state width="1794" height="299" key="GridCell.Tab.0.left" timestamp="1696548168115">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="299" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1696548168115" />
+    <state width="1794" height="299" key="GridCell.Tab.0.right" timestamp="1696548168118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1794" height="299" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1696548168118" />
+    <state x="454" y="190" key="SettingsEditor" timestamp="1696548322201">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="454" y="190" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1696548322201" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="65" lean-forward="true" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/io/aiven/klaw/UiapiApplication.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/db/changelog/changelog.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1197">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/scripts/base/rdbms/db-grants.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/scripts/base/rdbms/dropjdbc.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/io/aiven/klaw/service/SchemaRegistryControllerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="303" selection-start-line="303" selection-end-line="303" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster-api/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster-api/src/main/java/io/aiven/klaw/clusterapi/KafkaClusterApiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coral/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coral/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
