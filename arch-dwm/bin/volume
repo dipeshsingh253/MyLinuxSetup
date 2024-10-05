@@ -1,4 +1,0 @@
-#!/bin/bash 
-
-vol="$(amixer get Master | grep -oP '\[\K\d+%' | tail -n 1)"
-echo " ${vol}"
